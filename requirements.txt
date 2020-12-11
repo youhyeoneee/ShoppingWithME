@@ -1,2 +1,6 @@
 django
 Pillow
+requests
+bs4
+python-magic
+djangorestframework
